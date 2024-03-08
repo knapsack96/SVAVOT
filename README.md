@@ -47,6 +47,6 @@ Put all the files in the repo under svavot and then execute in order:
 6) make_file_from_svm_results.py
 7) results_process_video.py (if you want to create a video of your results, change the name of the sequence where it is required in the file)
 8) extract_frames.py (if you need some frames of the output video, just change the name of the sequence where it is required in the file)
-9)  
+
 
       
