@@ -1,0 +1,14 @@
+configuration:
+  arguments: {}
+  command: python_svavot
+  env:
+    LD_LIBRARY_PATH: '/usr/local/cuda/lib64:/home/cym/anaconda3/envs/vot/lib/python3.8/site-packages/cv2/../../lib64:/usr/local/cuda-11.1/lib64:'
+    PATH: /home/cym/anaconda3/envs/vot;/usr/local/cuda-11.1/bin:/usr/local/cuda-11.1/bin:/home/cym/anaconda3/envs/vot/bin:/home/cym/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  label: svavot
+  paths: /data2/cym/VOTS2023/tracker
+  protocol: traxpython
+identifier: SVAVOTTest
+platform: linux
+python: "3.8.0 (default, Nov  6 2019, 21:49:08) \n[GCC 7.3.0]"
+timestamp: 2024-03-04T15-48-04.110242
+toolkit: 0.6.2
