@@ -47,8 +47,9 @@ Put all the files in the repo under svavot and then execute in order:
 4) svm.py (will create the pkl file already in the repo)
 5) create a directory "baseline"
 6) make_file_from_svm_results.py
-7) results_process_video.py (if you want to create a video of your results, change the name of the sequence where it is required in the file)
-8) extract_frames.py (if you need some frames of the output video, just change the name of the sequence where it is required in the file)
+7) zip the baseline directory with the manifest.yml both together and that's it, you can submit this zip file
+8) results_process_video.py (if you want to create a video of your results, change the name of the sequence where it is required in the file)
+9) extract_frames.py (if you need some frames of the output video, just change the name of the sequence where it is required in the file)
 
 
       
