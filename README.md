@@ -1,6 +1,8 @@
 # SVAVOT
 1st on VOTS2023 Benchmark (up to march 2024)
 
+IMPORTANT: Read this file in Raw mode, cause you can see the Tab Spaces!! Thanks :)
+
 In order to make the entire pipeline work, you should evaluate DMAOT and HQTrack on VOT Toolkit 4 sequence test (the ones needed for training) and on the 144 Challenge sequences (the ones needed for the test).
 Once you have these data, you would store them in this directory structure:
 -svavot
