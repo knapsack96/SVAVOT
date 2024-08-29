@@ -5,7 +5,7 @@ IMPORTANT: Read this file in Raw mode, so you can see the Tab Spaces!! Thanks :)
 
 Dependencies: install cv2, scikit-learn and Pillow
 
-In order to make the entire pipeline work, you should evaluate DMAOT and HQTrack on VOT Toolkit 4 sequence test (the ones needed for training) and on the 144 Challenge sequences (the ones needed for the test).
+In order to make the entire pipeline work, you should evaluate DMAOT and HQTrack on VOT Toolkit 4 sequence test (the ones needed for training) and on the 144 Challenge sequences (the ones needed for the test). These procedures are available on the VOTS2023 website.
 Once you have these data, you would store them in this directory structure:
 -svavot
   -dmaot_train
